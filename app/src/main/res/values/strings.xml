@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MarcasAdaptadorPersonalizado</string>
+    <string name="cabecera_listado">Marcas de ropa</string>
+    <string name="marca_nike">Nike</string>
+    <string name="descripcion_nike">Ropa deportiva de última generación</string>
+    <string name="marca_hurley">Hurley</string>
+    <string name="descripcion_hurley">Ropa de surf para todas las edades</string>
+    <string name="marca_nsp">NSP</string>
+    <string name="descripcion_nsp">Tablas de surf de origen Taiwanes</string>
+    <string name="marca_levis">Levis</string>
+    <string name="descripcion_levis">Ropa de vestir del lejano Oeste</string>
+    <string name="marca_quick">Quicksilver</string>
+    <string name="descripcion_quick">Marca surfera espacializada en ropa de vestir</string>
+    <string name="marca_vans">Vans</string>
+    <string name="descripcion_vans">Marca de ropa especializada en moda skate</string>
+</resources>
